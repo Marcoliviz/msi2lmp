@@ -1,14 +1,13 @@
 # msi2lmp
-msi2lmp.exe
-diaoyong.exe
+This tool is used to transform .car to .dat of MD simulation file.
 
-#
-===================================================================================
+=====================================================================================
+diaoyong.exe
 This script is used to call the conversion tool of msi2lmp.exe, start dist/diaoyong.exe,
  enter the address of the .car file and the .mdf file, and click "生成data文件" 
  to get two files. ****. data and data. ****, where ****. data is the converted atomic
  coordinate file.
- ==================================================================================
+ ===================================================================================
  
  edited by xiao Wang
  qq: 1057015320
