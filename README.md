@@ -9,8 +9,7 @@ This script is used to call the conversion tool of msi2lmp.exe, start dist/diaoy
  to get two files. x.data and data.x, where x.data is the converted atomic
  coordinate file.
  
- edited by xiao Wang
- qq: 1057015320
+ edited by Marcoliviz
  2020/3/10
  
  ===================================================================================
